@@ -4,6 +4,8 @@
 
 This tool lets you customise your RL Sideswipe (Android only). Use this at your own risk - any problems as a result of its usage are not our fault. Please only use this if you know what you are doing.
 
+**This tool is currently a work in progress, and therefore is not usable yet. If you want to be notified when it is ready to go, join our [Discord server](https://rlss.gg/discord).**
+
 ## Setup
 
 The following instructions are for setting up pakker on Linux. This has been tested on Debian through WSL on Windows 11.
