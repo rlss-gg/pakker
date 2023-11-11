@@ -42,7 +42,7 @@ unzip UnrealApkTool.zip
 
 ### 4. Download your game APK
 
-Downlaod the RL Sideswipe from [apkmirror](https://www.apkmirror.com/apk/psyonix-studios/rocket-league-sideswipe/). Click on the latest version listed, then download the version with an **APK** chip. Move this file into this directory, then rename it `rl2d.apk`.
+Download the RL Sideswipe from [apkmirror](https://www.apkmirror.com/apk/psyonix-studios/rocket-league-sideswipe/). Click on the latest version listed, then download the version with an **APK** chip. Move this file into this directory, then rename it `rl2d.apk`.
 
 ## Usage
 
